@@ -1,4 +1,4 @@
-# Ember-castle 
+# Ember Castle 
 
 [![Build
 Status](https://travis-ci.org/heyjinkim/ember-castle.svg?branch=master)](https://travis-ci.org/heyjinkim/ember-castle)
